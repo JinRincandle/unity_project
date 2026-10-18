@@ -1,0 +1,51 @@
+[
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Basic_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "project_root",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "has",
+    "src_type": "project",
+    "dst_type": "scene"
+  }
+]

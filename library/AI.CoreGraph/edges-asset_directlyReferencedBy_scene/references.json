@@ -1,0 +1,982 @@
+[
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Volume_Volume_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Volume_Volume_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalCameraData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Basic_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalCameraData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalCameraData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Basic_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Runtime_UniversalAdditionalLightData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_LightingData_asset",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Ground_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Ground_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_BackgroundMesh_fbx",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Emissive_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Black_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Black_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_GlobalVolumeProfile_asset",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Lighting_ProbeVolume_ProbeVolumePerSceneData_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_SamplesFixture_fbx",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Camera_FreeCamera_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Camera_FreeCamera_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_SamplesSpotlightModel_fbx",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_SamplesFloorSpotlight_fbx",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Metal_Black_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Gold_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_Gold_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_UnityMaterialBall_fbx",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_RenderPipelineResources_Mesh_UnityMaterialBall_fbx",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_White_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Materials_White_mat",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Lighting_ProbeVolume_ProbeVolume_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_core_Runtime_Lighting_ProbeVolume_ProbeVolume_cs",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_LightingData_asset",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_GlobalVolumeProfile_asset",
+    "dst_id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0011_0_png",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0006_4_png",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0007_Lights_png",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0002_7_png",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0005_5_png",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0003_6_png",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0009_2_png",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0001_8_png",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0000_9_png",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_Demo_MoveBackground_cs",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0008_3_png",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0004_Lights_png",
+    "dst_id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_plainground1_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_bush4_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_grass2_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_tree1_2_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_bush4_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_plainground3_(1)_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_bg1_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_log1_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_Particles_SmokeDarkSoft_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_bush3_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_bg2_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_tree1_(1)_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_2nd_layer_rock3_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_bg5_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_Particles_FallingLeaves_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_Particles_DustMotesCalm_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_item2_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_tree5_2_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_2nd_layer_tree4_1_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_spiky_wheel_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_tree3_2_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_grass_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_rock3_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_plainground4_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_tree2_0_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_bush5_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_grass3_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_bush5_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_log2_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_item1_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_tree4_2_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_rock4_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_ladder_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_rock1_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_tree4_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_grass3_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_Player_&_Systems_Player_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_grass2_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_Player_&_Systems_Main_Camera_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_grass1_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_tree3_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_plainground3_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_grass5_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_2nd_layer_tree5_1_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Extra_square_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_2nd_layer_tree3_1_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_2nd_layer_bush4_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_2nd_layer_bush5_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_bg3_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_item3_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_rock2_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_2nd_layer_bush2_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_statue_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Prefabs_rock2_(1)_prefab",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_tree2_2_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Layers_3rd_layer_rock5_3rd_png",
+    "dst_id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Extra_item3_png",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0011_0_png",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0006_4_png",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_TimeTravelController_cs",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_FutureMap_Scripts_SmoothCameraFollow2D_cs",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_[BuildingBlocks]_Prefabs_Player_prefab",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_ChronoSwitch_cs",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0003_6_png",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0009_2_png",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_TemporalHUD_cs",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Extra_item1_png",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Extra_spiky_wheel_png",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_FutureMap_Materials_SpriteLitDefault_mat",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Free_Pixel_Art_Forest_PNG_Background_layers_Layer_0000_9_png",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Extra_square_png",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_ChronoDoor_cs",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_ChronoPortal_cs",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_[BuildingBlocks]_Prefabs_GrenadeEnemy_prefab",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Settings_TextMesh_Pro_Resources_Fonts_&_Materials_LiberationSans_SDF_asset",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_TemporalOrb_cs",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_[BuildingBlocks]_Prefabs_MeleeEnemy_prefab",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_FutureCipherArchive_cs",
+    "dst_id": "scene_Assets_Scenes_FutureEra_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Extra_item3_png",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_TimeTravelController_cs",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_[BuildingBlocks]_Prefabs_Player_prefab",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Extra_statue_png",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_TemporalHUD_cs",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_TemporalVaultPuzzle_cs",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Extra_item1_png",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_FutureMap_Materials_SpriteLitDefault_mat",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_[BuildingBlocks]_Prefabs_WolfBossEnemy_prefab",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_TimelineStabilizerCore_cs",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_[BuildingBlocks]_Runtime_GameFeel_CameraFeedback_cs",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Dark_Platformer_Sprites_Extra_square_png",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_[BuildingBlocks]_Prefabs_GrenadeEnemy_prefab",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Settings_TextMesh_Pro_Resources_Fonts_&_Materials_LiberationSans_SDF_asset",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_[BuildingBlocks]_Prefabs_MeleeEnemy_prefab",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_EnemyOrbDrop_cs",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  },
+  {
+    "src_id": "asset_Assets_Scripts_TimeTravel_TemporalRunePillar_cs",
+    "dst_id": "scene_Assets_Scenes_SampleScene_unity",
+    "relation_type": "directlyReferencedBy",
+    "src_type": "asset",
+    "dst_type": "scene"
+  }
+]

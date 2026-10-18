@@ -1,0 +1,65 @@
+[
+  {
+    "id": "scene_Assets_Scenes_SampleScene_unity",
+    "type": "scene",
+    "path": "Assets/Scenes/SampleScene.unity",
+    "name": "SampleScene",
+    "direct_dependencies_count": 17,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Basic_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.render-pipelines.universal/Editor/SceneTemplates/Basic.unity",
+    "name": "Basic",
+    "direct_dependencies_count": 2,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Indoors_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.render-pipelines.universal/Editor/SceneTemplates/Indoors.unity",
+    "name": "Indoors",
+    "direct_dependencies_count": 19,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Packages_com_unity_render_pipelines_universal_Editor_SceneTemplates_Standard_unity",
+    "type": "scene",
+    "path": "Packages/com.unity.render-pipelines.universal/Editor/SceneTemplates/Standard.unity",
+    "name": "Standard",
+    "direct_dependencies_count": 12,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Assets_Free_Pixel_Art_Forest_Demo_Background_Example_2_unity",
+    "type": "scene",
+    "path": "Assets/Free Pixel Art Forest/Demo/Background Example 2.unity",
+    "name": "Background Example 2",
+    "direct_dependencies_count": 12,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Assets_Dark_Platformer_Demo_DEMO_unity",
+    "type": "scene",
+    "path": "Assets/Dark Platformer/Demo/DEMO.unity",
+    "name": "DEMO",
+    "direct_dependencies_count": 56,
+    "direct_dependents_count": null,
+    "asset_type": null
+  },
+  {
+    "id": "scene_Assets_Scenes_FutureEra_unity",
+    "type": "scene",
+    "path": "Assets/Scenes/FutureEra.unity",
+    "name": "FutureEra",
+    "direct_dependencies_count": 22,
+    "direct_dependents_count": null,
+    "asset_type": null
+  }
+]
