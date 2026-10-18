@@ -1,0 +1,60 @@
+ASHFALL — three-layer parallax
+Copyright (c) 2026 Firepious. All rights reserved.
+ 
+firepious.itch.io
+ 
+ 
+YOU MAY
+ 
+  Use these assets in personal and commercial projects,
+  free or paid, with no limit on the number of projects.
+ 
+  Modify them. Recolour, crop, extend, redraw, composite,
+  animate — whatever the work needs.
+ 
+  Include them, in original or modified form, inside a
+  game, application, film, video, or other finished work
+  you distribute or sell.
+ 
+  Credit is not required. It is welcome. If you choose to
+  give it: Ashfall by Firepious, firepious.itch.io
+ 
+ 
+YOU MAY NOT
+ 
+  Resell, redistribute, sublicense, or give away the
+  assets on their own, in original or modified form, as
+  the substance of what is being offered.
+ 
+  Include them in an asset pack, template, bundle, asset
+  library, or marketplace listing where the assets
+  themselves are what is being provided.
+ 
+  Mint them, in original or modified form, as NFTs or any
+  other tokenised or blockchain-registered asset.
+ 
+  Claim authorship of the original artwork or register any
+  trademark or copyright over it.
+ 
+The line is simple: ship them inside your work, don't ship
+them as the work.
+ 
+ 
+NO WARRANTY
+ 
+  These assets are provided as is, without warranty of any
+  kind, express or implied, including but not limited to
+  the warranties of merchantability, fitness for a
+  particular purpose, and noninfringement. In no event
+  shall the author be liable for any claim, damages, or
+  other liability arising from or in connection with the
+  assets or their use.
+ 
+ 
+PROVENANCE
+ 
+  Rough forms were generated with a local generative tool,
+  then reworked by hand for palette, banding, and seam
+  consistency. The demo project and driver script are
+  original work.
+ 

@@ -1,0 +1,35 @@
+[gd_scene format=3 uid="uid://dkqwo4rfgqj5p"]
+
+[ext_resource type="Script" uid="uid://s1p6qs0sacv4" path="res://ashfall.gd" id="1_1bvp3"]
+[ext_resource type="Texture2D" uid="uid://0uol3g6606dl" path="res://01_sky.png" id="2_1bvp3"]
+[ext_resource type="Texture2D" uid="uid://c45wutlq4oxd2" path="res://02_mid.png" id="3_lquwl"]
+[ext_resource type="Texture2D" uid="uid://cxwj6y08i16qi" path="res://03_front.png" id="4_7mycd"]
+
+[node name="Main" type="Node2D" unique_id=1574102823]
+
+[node name="Ashfall" type="ParallaxBackground" parent="." unique_id=1429197835]
+script = ExtResource("1_1bvp3")
+
+[node name="01_sky" type="ParallaxLayer" parent="Ashfall" unique_id=2123225262]
+motion_scale = Vector2(0.25, 1)
+motion_mirroring = Vector2(960, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="Ashfall/01_sky" unique_id=1606417350]
+texture = ExtResource("2_1bvp3")
+
+[node name="02_mid" type="ParallaxLayer" parent="Ashfall" unique_id=2088366089]
+motion_scale = Vector2(0.5, 1)
+motion_mirroring = Vector2(960, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="Ashfall/02_mid" unique_id=424533784]
+texture = ExtResource("3_lquwl")
+
+[node name="03_front" type="ParallaxLayer" parent="Ashfall" unique_id=1344915118]
+motion_mirroring = Vector2(960, 0)
+
+[node name="Sprite2D" type="Sprite2D" parent="Ashfall/03_front" unique_id=1390038300]
+texture = ExtResource("4_7mycd")
+
+[node name="Camera2D" type="Camera2D" parent="." unique_id=28158003]
+anchor_mode = 0
+limit_enabled = false
